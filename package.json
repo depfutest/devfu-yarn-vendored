@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "jquery": "^2.1.2",
-    "opencolor": "^0.0.8"
+    "opencolor": "^0.2.0"
   },
   "devDependencies": {
     "is-array": "^1.0.1"
